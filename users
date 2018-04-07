@@ -1,0 +1,5 @@
+ 06:45:37 up  2:12,  3 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    103.97.106.86    04:34   18:25   0.19s  0.19s -bash
+ec2-user pts/1    157.33.52.176    06:29    1.00s  0.04s  0.01s w
+ec2-user pts/2    157.33.52.176    06:42   57.00s  0.01s  0.01s -bash
